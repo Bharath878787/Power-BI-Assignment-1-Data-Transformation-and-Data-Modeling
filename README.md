@@ -48,5 +48,5 @@ The project demonstrates data transformation, cleaning, aggregation, and modelin
 20. Established relationship between "Order Details" and "Sales Target" (Category) and ensured it is active.
 
 ## Files
-- `Power BI Assignment Data Transformation & Data Modeling E-Commerce Sales Analysis.pbix` → Power BI file with data model and visuals  
+- `Power BI Assignment Data Transformation & Data Modeling E-Commerce Sales Analysis.pbix` → Power BI file
 - `README.md` → Documentation of all steps executed  
