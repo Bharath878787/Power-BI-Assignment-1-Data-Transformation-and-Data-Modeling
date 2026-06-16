@@ -30,7 +30,7 @@ The project demonstrates data transformation, cleaning, aggregation, and modelin
 
 ### Handling Missing & Duplicate Data
 13. Verified no missing values.
-14. Removed duplicate rows.
+14. Found 6 Duplicate Rows and Removed those duplicated rows.
 
 ### Sorting & Filtering
 15. Sorted orders by Order Date (descending).
